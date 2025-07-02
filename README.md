@@ -1,7 +1,6 @@
 # ✅ Complete Guide: How to Do 10 GitHub Commits (Zama Eligible)
 
-This guide helps you complete **10 GitHub commits** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**:  
-👉 [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19)
+This guide helps you complete **10 GitHub commits** easily using **GitHub Codespaces** — so that you can participate in the **Zama Developer Program**: [https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19](https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19)
 
 ---
 
