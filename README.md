@@ -69,3 +69,11 @@ echo "Commit 10 line" >> README.md
 git add README.md
 git commit -m "Commit 10"
 ```
+```bash
+git push
+```
+
+---
+
+💥 You’re Done!
+You now have 10 public commits visible on your profile — ready to use for Zama Developer Program.
