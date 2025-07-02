@@ -76,7 +76,9 @@ git push
 ---
 
 💥 You’re Done!
-You now have 10 public commits visible on your profile — ready to use for Zama Developer Program.
+• Close Every Tap ( Broaser )
+• Just Wait 5-10 Minutes Max
+• You now have 10 public commits visible on your profile — ready to use for Zama Developer Program.
 
 ## 🙌 Guide Created by: [@EarnByAbhi](https://x.com/earnbyabhi)
 
