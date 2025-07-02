@@ -3,14 +3,6 @@
 This guide helps you complete **10 GitHub commits** easily using **GitHub Codespaces** — so that you can participate in Zama Developer Program: https://x.com/EarnByAbhi/status/1940383606758842679?t=ssWyWOk0gNPsVHcDEQnP4Q&s=19
 ---
 
-## 🔧 Requirements
-
-- GitHub Account (create at https://github.com)
-- Internet Access
-- No software installation needed (uses GitHub Codespace)
-
----
-
 ## 🪜 Step-by-Step Instructions
 
 ### 1️⃣ Create a New Repository
@@ -32,9 +24,6 @@ This guide helps you complete **10 GitHub commits** easily using **GitHub Codesp
 ---
 
 ### 3️⃣ Open Terminal in Codespace
-
-- If not auto-opened, click `Terminal > New Terminal` from top menu  
-- A terminal will open at the bottom of the screen
 
 ---
 
@@ -78,3 +67,4 @@ git commit -m "Commit 9"
 echo "Commit 10 line" >> README.md
 git add README.md
 git commit -m "Commit 10"
+```
