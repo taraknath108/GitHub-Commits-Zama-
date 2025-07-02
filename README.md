@@ -77,7 +77,7 @@ git push
 
 💥 You’re Done!
 
-• Close Every Tap ( Broaser )
+• Close Every Tab ( Broaser )
 
 • Just Wait 5-10 Minutes Max
 
